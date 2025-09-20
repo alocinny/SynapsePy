@@ -1,9 +1,10 @@
 # SynapsePy
 
-Uma implementação de uma rede neural a partir do zero (from scratch) utilizando apenas Python e NumPy. Este projeto foi desenvolvido seguindo a incrível série de tutoriais ["Neural Networks from Scratch"](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) de Harrison Kinsley (Sentdex).
+Uma implementação de uma rede neural a partir do zero (from scratch) utilizando apenas Python e NumPy. Este projeto foi desenvolvido seguindo a série de tutoriais ["Neural Networks from Scratch"](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) de Harrison Kinsley (Sentdex).
 
 O objetivo principal deste repositório é solidificar o entendimento dos mecanismos internos de uma rede neural, incluindo o processo de *forward propagation*, *backpropagation* e otimização.
 
+[![Licença MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-1.21%2B-yellow.svg)](https://numpy.org/)
 
